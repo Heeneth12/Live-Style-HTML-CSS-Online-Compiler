@@ -1,7 +1,9 @@
-# Getting Started with Create React App
 <h1>Live Style - Real-Time HTML, CSS, and JS Code Editor & Preview</h1>
-## Features
+<img width="1439" alt="LIve Style" src="https://github.com/Heeneth12/Live-Style-HTML-CSS-Online-Compiler/assets/114326514/05afa5c1-2f32-437e-ab2d-b52d17227cb8">
+<h1>Try this herr</h1>
 
+
+## Features
 - Real-time code editing for HTML, CSS, and JavaScript.
 - Live preview of the code output as you type.
 - Supports HTML, CSS, and JavaScript syntax highlighting.
