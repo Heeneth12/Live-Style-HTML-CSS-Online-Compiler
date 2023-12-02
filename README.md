@@ -1,4 +1,12 @@
 # Getting Started with Create React App
+<h1>Live Style - Real-Time HTML, CSS, and JS Code Editor & Preview</h1>
+## Features
+
+- Real-time code editing for HTML, CSS, and JavaScript.
+- Live preview of the code output as you type.
+- Supports HTML, CSS, and JavaScript syntax highlighting.
+- Responsive design for seamless use on various devices.
+- Easily adjustable code editor panels for an optimal editing experience.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
